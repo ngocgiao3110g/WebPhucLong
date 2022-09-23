@@ -1,0 +1,40 @@
+
+/*dang nhap*/
+.khungtieude{
+    margin: auto;
+    width: 400px;
+    height: 85px;
+}
+.tieude{
+     width: 319px;
+    height: 90px;
+    font-size: 29px;
+    text-align: center;
+    line-height: 40px;
+}
+.chuthich{
+    color: red;
+}
+.btnDN{
+    border-radius: 30px;
+    width: 155px;
+    height: 50px;
+    border: 1px solid gray;
+    background: white;
+    font-size: 17px;
+}
+table{
+     border: 1px;
+    width: 25%;
+    margin-left: 435px;
+    margin-top: 0px;
+}
+.dangnhap{
+        margin-top: 12px;
+    margin-left: 42px;
+}
+.tieude img{
+      width: 130px;
+    height: 130px;
+    margin-top: -104px;
+}
